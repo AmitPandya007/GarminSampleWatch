@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleApp.mc" id="3" lineNum="17" pc="268435456" symbol="initialize"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleApp.mc" id="3" lineNum="18" pc="268435460" symbol="initialize"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleApp.mc" id="3" lineNum="19" pc="268435478" symbol="initialize"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleApp.mc" id="3" lineNum="20" pc="268435495" symbol="initialize"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleApp.mc" id="3" lineNum="22" pc="268435534" symbol="initialize"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleApp.mc" id="4" lineNum="26" pc="268435559" symbol="onStart"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleApp.mc" id="5" lineNum="30" pc="268435564" symbol="onStop"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleApp.mc" id="6" lineNum="34" pc="268435569" symbol="getInitialView"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleApp.mc" id="6" lineNum="36" pc="268435573" symbol="getInitialView"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleApp.mc" id="6" lineNum="37" pc="268435596" symbol="getInitialView"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleApp.mc" id="6" lineNum="38" pc="268435606" symbol="getInitialView"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleApp.mc" id="6" lineNum="40" pc="268435658" symbol="getInitialView"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleApp.mc" id="6" lineNum="42" pc="268435679" symbol="getInitialView"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleApp.mc" id="7" lineNum="45" pc="268435717" symbol="onBackgroundData"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleApp.mc" id="7" lineNum="46" pc="268435721" symbol="onBackgroundData"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleApp.mc" id="7" lineNum="47" pc="268435740" symbol="onBackgroundData"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleApp.mc" id="7" lineNum="48" pc="268435757" symbol="onBackgroundData"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleApp.mc" id="7" lineNum="49" pc="268435796" symbol="onBackgroundData"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleApp.mc" id="7" lineNum="50" pc="268435844" symbol="onBackgroundData"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleApp.mc" id="7" lineNum="51" pc="268435854" symbol="onBackgroundData"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleApp.mc" id="7" lineNum="52" pc="268435895" symbol="onBackgroundData"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleApp.mc" id="8" lineNum="55" pc="268435912" symbol="getServiceDelegate"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleApp.mc" id="8" lineNum="56" pc="268435916" symbol="getServiceDelegate"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleApp.mc" id="8" lineNum="57" pc="268435933" symbol="getServiceDelegate"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleApp.mc" id="8" lineNum="58" pc="268435972" symbol="getServiceDelegate"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleApp.mc" id="8" lineNum="59" pc="268435996" symbol="getServiceDelegate"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/BG_Service.mc" id="10" lineNum="13" pc="268436034" symbol="initialize"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/BG_Service.mc" id="10" lineNum="14" pc="268436038" symbol="initialize"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/BG_Service.mc" id="11" lineNum="19" pc="268436061" symbol="onTemporalEvent"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/BG_Service.mc" id="11" lineNum="21" pc="268436065" symbol="onTemporalEvent"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/BG_Service.mc" id="11" lineNum="23" pc="268436088" symbol="onTemporalEvent"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/BG_Service.mc" id="11" lineNum="24" pc="268436120" symbol="onTemporalEvent"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/BG_Service.mc" id="11" lineNum="32" pc="268436209" symbol="onTemporalEvent"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/BG_Service.mc" id="11" lineNum="33" pc="268436226" symbol="onTemporalEvent"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/BG_Service.mc" id="11" lineNum="34" pc="268436265" symbol="onTemporalEvent"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/BG_Service.mc" id="12" lineNum="40" pc="268436290" symbol="onOAuthComplete"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/BG_Service.mc" id="12" lineNum="42" pc="268436294" symbol="onOAuthComplete"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/BG_Service.mc" id="12" lineNum="43" pc="268436326" symbol="onOAuthComplete"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/BG_Service.mc" id="12" lineNum="44" pc="268436361" symbol="onOAuthComplete"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/BG_Service.mc" id="12" lineNum="45" pc="268436394" symbol="onOAuthComplete"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/BG_Service.mc" id="12" lineNum="46" pc="268436410" symbol="onOAuthComplete"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/BG_Service.mc" id="12" lineNum="47" pc="268436417" symbol="onOAuthComplete"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/BG_Service.mc" id="12" lineNum="48" pc="268436460" symbol="onOAuthComplete"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/BG_Service.mc" id="12" lineNum="50" pc="268436491" symbol="onOAuthComplete"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/BG_Service.mc" id="12" lineNum="51" pc="268436520" symbol="onOAuthComplete"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/BG_Service.mc" id="12" lineNum="52" pc="268436533" symbol="onOAuthComplete"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/BG_Service.mc" id="12" lineNum="54" pc="268436555" symbol="onOAuthComplete"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/BG_Service.mc" id="12" lineNum="56" pc="268436578" symbol="onOAuthComplete"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/BG_Service.mc" id="12" lineNum="58" pc="268436585" symbol="onOAuthComplete"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/BG_Service.mc" id="12" lineNum="61" pc="268436605" symbol="onOAuthComplete"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/ErrorView.mc" id="14" lineNum="12" pc="268436672" symbol="initialize"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/ErrorView.mc" id="14" lineNum="13" pc="268436676" symbol="initialize"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/ErrorView.mc" id="14" lineNum="14" pc="268436694" symbol="initialize"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/ErrorView.mc" id="15" lineNum="18" pc="268436705" symbol="onUpdate"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/ErrorView.mc" id="15" lineNum="19" pc="268436709" symbol="onUpdate"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/ErrorView.mc" id="15" lineNum="20" pc="268436745" symbol="onUpdate"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/ErrorView.mc" id="15" lineNum="21" pc="268436757" symbol="onUpdate"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/ErrorView.mc" id="15" lineNum="23" pc="268436793" symbol="onUpdate"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleView.mc" id="19" lineNum="10" pc="268436885" symbol="initialize"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleView.mc" id="19" lineNum="11" pc="268436889" symbol="initialize"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleView.mc" id="19" lineNum="14" pc="268436907" symbol="initialize"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleView.mc" id="19" lineNum="15" pc="268436941" symbol="initialize"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleView.mc" id="19" lineNum="15" pc="268436965" symbol="initialize"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleView.mc" id="19" lineNum="17" pc="268436978" symbol="initialize"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleView.mc" id="19" lineNum="18" pc="268437012" symbol="initialize"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleView.mc" id="19" lineNum="18" pc="268437036" symbol="initialize"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleView.mc" id="19" lineNum="20" pc="268437049" symbol="initialize"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleView.mc" id="19" lineNum="21" pc="268437066" symbol="initialize"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleView.mc" id="19" lineNum="22" pc="268437105" symbol="initialize"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleView.mc" id="20" lineNum="26" pc="268437160" symbol="onLayout"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleView.mc" id="20" lineNum="27" pc="268437164" symbol="onLayout"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleView.mc" id="21" lineNum="33" pc="268437202" symbol="onShow"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleView.mc" id="22" lineNum="37" pc="268437207" symbol="onUpdate"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleView.mc" id="22" lineNum="39" pc="268437211" symbol="onUpdate"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleView.mc" id="22" lineNum="40" pc="268437228" symbol="onUpdate"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleView.mc" id="22" lineNum="46" pc="268437318" symbol="onUpdate"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleView.mc" id="22" lineNum="47" pc="268437342" symbol="onUpdate"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleView.mc" id="22" lineNum="50" pc="268437356" symbol="onUpdate"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleView.mc" id="23" lineNum="56" pc="268437377" symbol="onHide"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleView.mc" id="23" lineNum="57" pc="268437381" symbol="onHide"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleView.mc" id="23" lineNum="58" pc="268437398" symbol="onHide"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleView.mc" id="23" lineNum="59" pc="268437437" symbol="onHide"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleView.mc" id="23" lineNum="60" pc="268437476" symbol="onHide"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/SampleView.mc" id="24" lineNum="64" pc="268437518" symbol="onEnterSleep"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/Background.mc" id="26" lineNum="6" pc="268437523" symbol="initialize"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/Background.mc" id="26" lineNum="7" pc="268437527" symbol="initialize"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/Background.mc" id="26" lineNum="9" pc="268437547" symbol="initialize"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/Background.mc" id="26" lineNum="10" pc="268437571" symbol="initialize"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/Background.mc" id="27" lineNum="13" pc="268437596" symbol="draw"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/Background.mc" id="27" lineNum="14" pc="268437600" symbol="draw"/>
+<entry filename="/home/norm-software/Eclipse/Sample/source/Background.mc" id="27" lineNum="15" pc="268437619" symbol="draw"/>
+<entry filename="Rez" id="33" lineNum="15" pc="268437633" symbol="WatchFace"/>
+<entry filename="Rez" id="33" lineNum="17" pc="268437645" symbol="WatchFace"/>
+<entry filename="Rez" id="33" lineNum="18" pc="268437808" symbol="WatchFace"/>
+<entry filename="Rez" id="33" lineNum="19" pc="268437961" symbol="WatchFace"/>
+<entry filename="Rez" id="33" lineNum="20" pc="268438094" symbol="WatchFace"/>
+<entry filename="Rez" id="33" lineNum="21" pc="268438234" symbol="WatchFace"/>
+<entry filename="Rez" id="33" lineNum="22" pc="268438367" symbol="WatchFace"/>
+<entry filename="Rez" id="33" lineNum="23" pc="268438500" symbol="WatchFace"/>
+<entry filename="Rez" id="33" lineNum="24" pc="268438633" symbol="WatchFace"/>
+<entry filename="Rez" id="33" lineNum="25" pc="268438779" symbol="WatchFace"/>
+<entry filename="Rez" id="33" lineNum="26" pc="268438912" symbol="WatchFace"/>
+<entry filename="Rez" id="33" lineNum="27" pc="268439075" symbol="WatchFace"/>
+<entry filename="Rez" id="33" lineNum="28" pc="268439208" symbol="WatchFace"/>
+<entry filename="Rez" id="33" lineNum="29" pc="268439384" symbol="WatchFace"/>
+<entry filename="Rez" id="33" lineNum="30" pc="268439517" symbol="WatchFace"/>
+<entry filename="Rez" id="33" lineNum="31" pc="268439663" symbol="WatchFace"/>
+<entry filename="Rez" id="33" lineNum="32" pc="268439796" symbol="WatchFace"/>
+<entry filename="Rez" id="33" lineNum="33" pc="268439929" symbol="WatchFace"/>
+<entry filename="Rez" id="33" lineNum="35" pc="268440069" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="21" method="true" symbol="onOAuthComplete"/>
+<entry field="true" id="12" symbol="bgdata"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="8388637" module="true" symbol="Communications"/>
+<entry id="8390425" module="true" symbol="Properties"/>
+<entry field="true" id="31" symbol="ColorBlue"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="40" symbol="PROVIDER_URL"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="25" symbol="APP_VERSION"/>
+<entry id="18" object="true" symbol="ErrorView"/>
+<entry field="true" id="38" symbol="ColorWhite"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry field="true" id="15" symbol="OSDATA"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry field="true" id="37" symbol="ColorBlack"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="32" symbol="ColorRed"/>
+<entry field="true" id="33" symbol="ForegroundColorTitle"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="39" symbol="AppName"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="14" symbol="OSCOUNTER"/>
+<entry id="8390146" module="true" object="true" symbol="Background"/>
+<entry id="17" object="true" symbol="sampleServiceDelegate"/>
+<entry field="true" id="29" symbol="LauncherIcon"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="20" object="true" symbol="SampleView"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="35" symbol="ColorDarkGray"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="22" symbol="topColor"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="11" symbol="counter"/>
+<entry id="8389348" symbol="font"/>
+<entry field="true" id="30" symbol="ColorLightGray"/>
+<entry id="8390170" method="true" symbol="onBackgroundData"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="34" symbol="BackgroundColorTitle"/>
+<entry field="true" id="23" symbol="bottomColor"/>
+<entry id="8390169" method="true" symbol="getServiceDelegate"/>
+<entry id="8390148" method="true" symbol="onTemporalEvent"/>
+<entry id="27" module="true" symbol="Layouts"/>
+<entry id="8390147" object="true" symbol="ServiceDelegate"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="36" symbol="MilitaryFormatTitle"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="8389346" symbol="text"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry field="true" id="41" symbol="REDIRECT_URL"/>
+<entry field="true" id="24" symbol="AUTHENTICATION_TOKEN"/>
+<entry id="28" module="true" symbol="Menus"/>
+<entry id="16" object="true" symbol="SampleApp"/>
+<entry id="19" module="true" symbol="Constants"/>
+<entry field="true" id="13" symbol="canDoBG"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="26" symbol="&lt;globals/ErrorView/&lt;&gt;mErrorMessage&gt;"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435558" name="now" stackId="1" startPc="268435460"/>
+<entry endPc="268435558" name="ts" stackId="2" startPc="268435460"/>
+<entry endPc="268435564" name="state" stackId="1" startPc="268435559"/>
+<entry endPc="268435569" name="state" stackId="1" startPc="268435564"/>
+<entry endPc="268435911" name="now" stackId="2" startPc="268435721"/>
+<entry endPc="268435911" name="ts" stackId="3" startPc="268435721"/>
+<entry endPc="268435912" name="data" stackId="1" startPc="268435717"/>
+<entry endPc="268436033" name="now" stackId="1" startPc="268435916"/>
+<entry endPc="268436033" name="ts" stackId="2" startPc="268435916"/>
+<entry endPc="268436289" name="now" stackId="1" startPc="268436065"/>
+<entry endPc="268436289" name="ts" stackId="2" startPc="268436065"/>
+<entry endPc="268436517" name="token" stackId="2" startPc="268436394"/>
+<entry endPc="268436575" name="message" stackId="3" startPc="268436533"/>
+<entry endPc="268436605" name="message" stackId="4" startPc="268436578"/>
+<entry endPc="268436623" name="data" stackId="1" startPc="268436290"/>
+<entry endPc="268436705" name="errorMessage" stackId="1" startPc="268436672"/>
+<entry endPc="268436885" name="dc" stackId="1" startPc="268436705"/>
+<entry endPc="268437159" name="temp" stackId="1" startPc="268436889"/>
+<entry endPc="268437159" name="now" stackId="2" startPc="268436889"/>
+<entry endPc="268437159" name="ts" stackId="3" startPc="268436889"/>
+<entry endPc="268437202" name="dc" stackId="1" startPc="268437160"/>
+<entry endPc="268437376" name="timeString" stackId="3" startPc="268437211"/>
+<entry endPc="268437376" name="DatePlaceholder" stackId="4" startPc="268437211"/>
+<entry endPc="268437376" name="clockTime" stackId="2" startPc="268437211"/>
+<entry endPc="268437377" name="dc" stackId="1" startPc="268437207"/>
+<entry endPc="268437517" name="now" stackId="1" startPc="268437381"/>
+<entry endPc="268437517" name="ts" stackId="2" startPc="268437381"/>
+<entry endPc="268437596" name="params" stackId="1" startPc="268437523"/>
+<entry endPc="268437632" name="deviceWidth" stackId="3" startPc="268437600"/>
+<entry endPc="268437632" name="halfOfHeight" stackId="2" startPc="268437600"/>
+<entry endPc="268437633" name="dc" stackId="1" startPc="268437596"/>
+<entry endPc="268440246" name="rez_cmp_local_text_9992661372" stackId="7" startPc="268437645"/>
+<entry endPc="268440246" name="rez_cmp_local_text_1289385493" stackId="5" startPc="268437645"/>
+<entry endPc="268440246" name="rez_cmp_local_text_1404929964" stackId="12" startPc="268437645"/>
+<entry endPc="268440246" name="rez_cmp_local_text_1561414471" stackId="6" startPc="268437645"/>
+<entry endPc="268440246" name="rez_cmp_local_text_5300262492" stackId="14" startPc="268437645"/>
+<entry endPc="268440246" name="rez_cmp_local_text_1431396220" stackId="18" startPc="268437645"/>
+<entry endPc="268440246" name="rez_cmp_local_text_MCSDisplay" stackId="15" startPc="268437645"/>
+<entry endPc="268440246" name="rez_cmp_local_text_8813098051" stackId="16" startPc="268437645"/>
+<entry endPc="268440246" name="rez_cmp_local_text_1926399493" stackId="17" startPc="268437645"/>
+<entry endPc="268440246" name="rez_cmp_local_text_CHSDisplay" stackId="9" startPc="268437645"/>
+<entry endPc="268440246" name="rez_cmp_local_text_NonExSteps" stackId="3" startPc="268437645"/>
+<entry endPc="268440246" name="rez_cmp_local_text_1564899904" stackId="11" startPc="268437645"/>
+<entry endPc="268440246" name="rez_cmp_local_text_8517907901" stackId="4" startPc="268437645"/>
+<entry endPc="268440246" name="rez_cmp_local_text_1080158451" stackId="8" startPc="268437645"/>
+<entry endPc="268440246" name="rez_cmp_local_text_DatePlaceholder" stackId="2" startPc="268437645"/>
+<entry endPc="268440246" name="rez_cmp_local_text_BatteryDisplay" stackId="13" startPc="268437645"/>
+<entry endPc="268440246" name="rez_cmp_local_text_6636745171" stackId="10" startPc="268437645"/>
+<entry endPc="268440247" name="dc" stackId="1" startPc="268437633"/>
+</localVars>
+<annotations/>
+<dataEntryOffsetMappings>
+<dataEntry offset="103" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="294" parentId="globals" symbolId="SampleApp" type="class"/>
+<dataEntry offset="381" parentId="globals" symbolId="sampleServiceDelegate" type="class"/>
+<dataEntry offset="1212" parentId="globals" symbolId="Background" type="class"/>
+<dataEntry offset="1283" parentId="globals" symbolId="Properties" type="module"/>
+<dataEntry offset="1330" parentId="globals" symbolId="ErrorView" type="class"/>
+<dataEntry offset="1393" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="1472" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="1511" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="1542" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="1573" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="1612" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="1643" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="1754" parentId="globals" symbolId="SampleView" type="class"/>
+<dataEntry offset="1841" parentId="globals" symbolId="Constants" type="module"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="SampleApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="SampleApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="SampleApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="SampleApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onBackgroundData" parent="SampleApp">
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getServiceDelegate" parent="SampleApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="sampleServiceDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onTemporalEvent" parent="sampleServiceDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onOAuthComplete" parent="sampleServiceDelegate">
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="ErrorView">
+<param id="errorMessage"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="ErrorView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="SampleView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="SampleView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="SampleView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="SampleView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="SampleView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="SampleView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Background">
+<param id="params"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="Background">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
